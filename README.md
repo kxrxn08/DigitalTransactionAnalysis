@@ -1,4 +1,4 @@
 # DigitalTransactionAnalysis
 
-# NEFT - Natinoal Electronic Funds Transfer
+# NEFT - National Electronic Funds Transfer
 # UPI - Unified Payments Interface
